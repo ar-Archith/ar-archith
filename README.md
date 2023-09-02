@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Programming in Java, Computer Architecture**
 
-- 💬 Ask me about **Python, Data Visualisation, Data Handling, Anaconda, error detection in code**
+- 💬 Ask me about **Python, Data Visualisation, Data Handling, Anaconda**
 
 - 📫 How to reach me **r.archith2004@gmail.com, ar0710@srmist.edu.in**
 
